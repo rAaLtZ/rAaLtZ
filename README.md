@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **Raccoon are awesome**
 
+- 🎓 Currently Studying @ Politécnico de Leiria
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utdruben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utdruben" height="30" width="40" /></a>

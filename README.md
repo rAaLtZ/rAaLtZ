@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Raccoon are awesome**
 
-- 🎓 Currently Studying @ Politécnico de Leiria
+- 🎓 Currently Studying @ Politécnico de Leiria - ESTG
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

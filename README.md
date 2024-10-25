@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rúben Lopes</h1>
-<h3 align="center">A passionate software engineer from Portugal</h3>
+<h3 align="center"><bold>Software Engineer</bold>from Portugal</h3>
 
-- 🔭 I’m currently working on **Kattotes** - 👨‍💻 All of my projects are available
-at [soon](soon) - ⚡ Fun fact **Raccoon are awesome** - 🎓 Currently Studying @
-Politécnico de Leiria - ESTG
+- 🔭 I’m currently working on **Kattotes**
+
+- 👨‍💻 All of my projects are available at [soon](soon)
+
+- ⚡ Fun fact **Raccoon are awesome**
+
+- 🎓 Currently Studying @ Politécnico de Leiria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,12 +20,12 @@ Politécnico de Leiria - ESTG
       width="40"
   /></a>
   <a
-    href="https://www.linkedin.com/in/r%C3%BAben-lopes-b829a2218/"
+    href="https://www.linkedin.com/in/rubennlopes818"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/r%c3%baben-lopes-b829a2218/"
+      alt="https://www.linkedin.com/in/rubennlopes818"
       height="30"
       width="40"
   /></a>

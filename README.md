@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rúben Lopes</h1>
-<img align="center src="https://avatars.githubusercontent.com/u/64011242?v=4&size=256" alt="Rúben's Mugshot"></img>
+<img align="center" src="https://avatars.githubusercontent.com/u/64011242?v=4&size=256" alt="Rúben's Mugshot"></img>
 <h3 align="center"><strong>Software Engineer</strong> from Portugal</h3>
 
 - 🔭 I’m currently working on **Kattotes**

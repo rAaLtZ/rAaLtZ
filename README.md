@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rúben Lopes</h1>
+<h1 style="border-radius: 4rem;" align="center">Hi 👋, I'm Rúben Lopes</h1>
 <img align="center" src="https://avatars.githubusercontent.com/u/64011242?v=4&size=256" alt="Rúben's Mugshot"></img>
 <h3 align="center"><strong>Software Engineer</strong> from Portugal</h3>
 
@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [soon](soon)
 
-- ⚡ Fun fact **Raccoon are awesome**
+- ⚡ Fun fact **Raccoons are awesome**
 
-- 🎓 Currently Studying @ Politécnico de Leiria
+- 🎓 Currently Studying @ Politécnico de Leiria - ESTG
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
